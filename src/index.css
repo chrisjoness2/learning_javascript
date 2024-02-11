@@ -13,3 +13,16 @@
   font-size: 3rem;
   text-align: center;
 }
+
+.list{
+  position: relative;
+  left: 35%;
+  height: 100%;
+  width: 400px;
+  background-color: lightblue;
+  text-decoration: none;
+}
+
+.deleteBtn{
+  font-size: 2rem;
+}
